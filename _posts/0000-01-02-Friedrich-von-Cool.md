@@ -1,6 +1,6 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your test
+--
+"Some random quote"
 Use the left arrow to go back!
